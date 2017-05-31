@@ -1,0 +1,99 @@
+Tarefas:
+
+Seleção da uva para o deposito:
+-Seleção da uva
+-Escolher o depósito
+-Registar empregado responsável
+-Introdução da uva no depósito
+
+
+Fazer primeira ordem de serviço:
+-Registar nº de série
+-Registar marca
+-Registar depósito
+-Registar tarefa/poduto
+	-Registar litros/quantidade
+-Observações
+-Registar data
+-Registar empregado responsável
+-Confirmação (?)
+
+
+Introduzir ingredintes ao vinho:
+-Confirmar o nº de série
+-Verificar último registo da ordem de serviço
+-Registar marca
+-Registar depósito
+-Registar tarefa/poduto
+	-Registar litros/quantidade
+-Observações
+-Registar data
+-Registar empregado responsável
+-Confirmação (?)
+
+Registar enchimento:
+-Registar nº de série (igual ao do depósito)
+-Registar data
+-Registar marca
+-Registar depósito (de que deposito veio)
+-Registar tipo de vinho
+-Registar tipo de venda (venda normal, cabazes, packs)
+-Registar prepação do enchimento
+-Registar controlo físico-quimico/sensorial
+-Registar material utilizado (garrafa e rolha)
+-Registar empregado responsável
+	
+
+Registar rotulagem:
+-Registar tipo de cápsula
+	-quantidade
+-Registar quantidade de rotulo
+-Registar tipo de embalamento
+-Registar garrafas rotuladas
+-Registar garrafas partidas
+-Registar empregado responsável 	
+
+
+Registar no software de gestão:
+-(?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dúvidas:
+-Necessidade de registar o emprgado(?)
+
+
+
+
+Requisitos funcionas e não funcionais?
+F- casos de uso
+NF- casos de uso demasiado simples ou desnecessários(?)
+
+
+
+
+
+Aqui.
+
+
+
+
+
+
+
